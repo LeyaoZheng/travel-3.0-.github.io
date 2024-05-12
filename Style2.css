@@ -1,0 +1,52 @@
+body {
+  background-color: MistyRose;
+}
+button {
+  text-align:center;
+  color: LightCoral;
+}
+h1 {
+  text-align:center;
+  color: LightCoral;
+  font-family: Bookman, URW Bookman L, serif;
+  font-size: 55px;
+}
+p {
+  text-align:center;
+  color: Salmon;
+  font-family: cursive;
+  font-size: 23px
+}
+h3 {
+  text-align:center;
+  background-color: MistyRose;
+  border: 5px dashed pink;  
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: PaleVioletRed;
+  font-family: URW Chancery L, cursive;
+  font-size: 30px;
+}
+h4 {
+  text-align:center;
+  color: PaleVioletRed;
+  font-family: URW Chancery L, cursive;
+  font-size: 25px;
+}
+ul {
+  display: inline-table;
+  justify-content: center; 
+  color: Salmon;
+  font-family: cursive;
+  font-size: 23px;
+}
+a {
+  text-align:center;
+  color: Salmon;
+  font-family: cursive;
+  font-size: 23px;
+}
+img {
+  margin-left: 25px;
+  margin-right: 0px;
+}
